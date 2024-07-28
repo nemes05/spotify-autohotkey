@@ -1,6 +1,6 @@
 # Spotify AutoHotKey
 
-This AHK script adds hotkeys for play/pause, next and previous track.
+This AHK script adds hotkeys for play/pause, next and previous track for spotify.
 In addition it displays a toast notification if spotify is not in focus and a new track is playing.
 
 ## Usage
