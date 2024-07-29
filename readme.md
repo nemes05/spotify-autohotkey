@@ -19,6 +19,6 @@ In addition it displays a toast notification if spotify is not in focus and a ne
 
 ## HotKeys
 
--   `Ctrl` + `Space`: Play/Pause Track
+-   `Ctrl` + `Shift` + `Space`: Play/Pause Track
 -   `PgDn`: Next Track
 -   `PgUp`: Next Track
